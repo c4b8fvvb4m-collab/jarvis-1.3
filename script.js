@@ -140,5 +140,3 @@ async function handleUserInput(text) {
   addMessage(reply, 'jarvis');
   speakReply(reply);
 }
-getJarvisReply(
-)
